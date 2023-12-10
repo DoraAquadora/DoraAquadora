@@ -5,6 +5,14 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
+### - 🌱 My technologies:
+* JS
+* React
+* Express.js
+* Node.js
+### Contacts:
+* kk.tasha@yandex.ru
+* (Telegramm)[https://t.me/DedushkaB]
 <!--
 **DoraAquadora/DoraAquadora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
