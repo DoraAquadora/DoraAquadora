@@ -1,16 +1,16 @@
-### Hi there 👋
-## My name is Dora! 
+### Здравствуйте! 👋
+## Меня зовутДарья! 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
 
-### - 🌱 My technologies:
+### 🌱 Технологии, которыми я обладаю:
 * JS
 * React
 * Express.js
 * Node.js
-### Contacts:
+### ⚡ Мои контакты:
 * kk.tasha@yandex.ru
 * @DedushkaB
 ### :hammer_and_wrench: Languages and Tools :
